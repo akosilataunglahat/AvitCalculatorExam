@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "t4bA8eqEPWFm1XOdyzH9lrg9twsMedDFFh/lH3MwR5lr/AYbmiuDs//Z7nc1jGfTa0pRThHv+VwXGo4qdHQrMg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rld75124\\source\\repos\\AvitCalculator_Exam\\AvitCalculator_Exam\\AvitCalculator_Exam.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rld75124\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\Users\rld75124\source\repos\AvitCalculator_Exam\AvitCalculator_Exam\bin\Debug\netcoreapp3.1\AvitCalculator_Exam.exe
+C:\Users\rld75124\source\repos\AvitCalculator_Exam\AvitCalculator_Exam\bin\Debug\netcoreapp3.1\AvitCalculator_Exam.deps.json
+C:\Users\rld75124\source\repos\AvitCalculator_Exam\AvitCalculator_Exam\bin\Debug\netcoreapp3.1\AvitCalculator_Exam.runtimeconfig.json
+C:\Users\rld75124\source\repos\AvitCalculator_Exam\AvitCalculator_Exam\bin\Debug\netcoreapp3.1\AvitCalculator_Exam.runtimeconfig.dev.json
+C:\Users\rld75124\source\repos\AvitCalculator_Exam\AvitCalculator_Exam\bin\Debug\netcoreapp3.1\AvitCalculator_Exam.dll
+C:\Users\rld75124\source\repos\AvitCalculator_Exam\AvitCalculator_Exam\bin\Debug\netcoreapp3.1\AvitCalculator_Exam.pdb
+C:\Users\rld75124\source\repos\AvitCalculator_Exam\AvitCalculator_Exam\obj\Debug\netcoreapp3.1\AvitCalculator_Exam.csproj.AssemblyReference.cache
+C:\Users\rld75124\source\repos\AvitCalculator_Exam\AvitCalculator_Exam\obj\Debug\netcoreapp3.1\AvitCalculator_Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rld75124\source\repos\AvitCalculator_Exam\AvitCalculator_Exam\obj\Debug\netcoreapp3.1\AvitCalculator_Exam.AssemblyInfoInputs.cache
+C:\Users\rld75124\source\repos\AvitCalculator_Exam\AvitCalculator_Exam\obj\Debug\netcoreapp3.1\AvitCalculator_Exam.AssemblyInfo.cs
+C:\Users\rld75124\source\repos\AvitCalculator_Exam\AvitCalculator_Exam\obj\Debug\netcoreapp3.1\AvitCalculator_Exam.csproj.CoreCompileInputs.cache
+C:\Users\rld75124\source\repos\AvitCalculator_Exam\AvitCalculator_Exam\obj\Debug\netcoreapp3.1\AvitCalculator_Exam.dll
+C:\Users\rld75124\source\repos\AvitCalculator_Exam\AvitCalculator_Exam\obj\Debug\netcoreapp3.1\AvitCalculator_Exam.pdb
+C:\Users\rld75124\source\repos\AvitCalculator_Exam\AvitCalculator_Exam\obj\Debug\netcoreapp3.1\AvitCalculator_Exam.genruntimeconfig.cache
